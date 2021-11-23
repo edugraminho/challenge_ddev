@@ -3,6 +3,9 @@ import os
 
 ROOT = Path(os.path.dirname(os.path.abspath(__file__)))
 DOWNLOADS_PATH = os.path.join(ROOT, 'output')
+DATA_PATH = os.path.join(ROOT, 'data')
+
+
 
 # ---------------------- Select a Departament -------------------------
 

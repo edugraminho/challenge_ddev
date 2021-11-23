@@ -1,21 +1,9 @@
-# Template: Basic Python only robot
-
-Get started with just Python
-
-This template robot:
-
-- Uses only Python 
-- Provides a simple template to start from (`main.py`).
-
-## Learning materials
-
-- [Python basics](https://robocorp.com/docs/languages-and-frameworks/python)
-- [Best practices in creating Python robots](https://robocorp.com/docs/development-guide/qa-and-best-practices/python-robots)
-
-
-
-
 ### Challenge
+```
+    To select a department individually: 
+    - Open config.py
+    - Select a name from the list
+```
 
 Your challenge is to automate the process of extracting data from [**itdashboard.gov**](http://itdashboard.gov/).
 
