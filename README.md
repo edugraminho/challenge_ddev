@@ -5,7 +5,7 @@ Get started with just Python
 This template robot:
 
 - Uses only Python 
-- Provides a simple template to start from (`tasks.py`).
+- Provides a simple template to start from (`main.py`).
 
 ## Learning materials
 
@@ -27,3 +27,7 @@ Your challenge is to automate the process of extracting data from [**itdashboard
 - If the "**UII**" column contains a link, open it and download PDF with Business Case (button "**Download Business Case PDF**")
 - Your solution should be submitted and tested on [**Robocloud**](https://cloud.robocorp.com/).
 - Store downloaded files and Excel sheet to the root of the `output` folder
+
+## Author
+Eduardo Fior Graminho
+[**github**](https://github.com/edugraminho)
